@@ -13,7 +13,6 @@ class DemoApplicationTests {
         Scanner scanner = new Scanner(System.in);
         int firstNum = scanner.nextInt();
 
-
     }
 
 }
